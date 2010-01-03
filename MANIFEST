@@ -30,7 +30,3 @@ t/02_root/testdir/testfile
 t/03_sandbox.t
 t/03_sandbox.txt
 t/03_sandbox/testdir/testfile
-xt/01_podspell.t
-xt/02_perlcritic.t
-xt/03_pod.t
-xt/perlcriticrc
